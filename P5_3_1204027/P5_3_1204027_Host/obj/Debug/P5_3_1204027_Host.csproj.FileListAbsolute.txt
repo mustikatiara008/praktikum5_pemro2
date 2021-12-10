@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\P5_3_1204027\P5_3_1204027_Host\bin\Debug\P5_3_1204027_Host.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\P5_3_1204027\P5_3_1204027_Host\bin\Debug\P5_3_1204027_Host.exe
+c:\users\asus\documents\visual studio 2015\Projects\P5_3_1204027\P5_3_1204027_Host\bin\Debug\P5_3_1204027_Host.pdb
+c:\users\asus\documents\visual studio 2015\Projects\P5_3_1204027\P5_3_1204027_Host\obj\Debug\P5_3_1204027_Host.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\P5_3_1204027\P5_3_1204027_Host\obj\Debug\P5_3_1204027_Host.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\P5_3_1204027\P5_3_1204027_Host\obj\Debug\P5_3_1204027_Host.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\P5_3_1204027\P5_3_1204027_Host\obj\Debug\P5_3_1204027_Host.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\P5_3_1204027\P5_3_1204027_Host\obj\Debug\P5_3_1204027_Host.exe
+c:\users\asus\documents\visual studio 2015\Projects\P5_3_1204027\P5_3_1204027_Host\obj\Debug\P5_3_1204027_Host.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\P5_3_1204027\P5_3_1204027_Host\bin\Debug\P5_3_1204027.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\P5_3_1204027\P5_3_1204027_Host\bin\Debug\P5_3_1204027.pdb

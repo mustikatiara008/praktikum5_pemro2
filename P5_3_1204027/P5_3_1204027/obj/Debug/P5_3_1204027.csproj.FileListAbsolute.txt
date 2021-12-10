@@ -1,0 +1,5 @@
+c:\users\asus\documents\visual studio 2015\Projects\P5_3_1204027\P5_3_1204027\bin\Debug\P5_3_1204027.dll
+c:\users\asus\documents\visual studio 2015\Projects\P5_3_1204027\P5_3_1204027\bin\Debug\P5_3_1204027.pdb
+c:\users\asus\documents\visual studio 2015\Projects\P5_3_1204027\P5_3_1204027\obj\Debug\P5_3_1204027.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\P5_3_1204027\P5_3_1204027\obj\Debug\P5_3_1204027.dll
+c:\users\asus\documents\visual studio 2015\Projects\P5_3_1204027\P5_3_1204027\obj\Debug\P5_3_1204027.pdb
